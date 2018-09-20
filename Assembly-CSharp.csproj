@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{7F2C3FDF-04EF-752D-D53E-08DD34F2AEAC}</ProjectGuid>
+    <ProjectGuid>{4F345DCE-CB4E-FC59-BA0B-9C78962D2FA7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,10 +64,10 @@
     <Compile Include="Assets\GetSceneFromFTP.cs" />
     <Compile Include="Assets\UploadToFTP.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/GuiQi/UnityProject/BaiduAR/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/GuiQi/UnityProject/FTP_DownLoadUpdate/FTP_DownLoadUpdate/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/GuiQi/UnityProject/BaiduAR/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/GuiQi/UnityProject/FTP_DownLoadUpdate/FTP_DownLoadUpdate/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files/Unity2018/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
